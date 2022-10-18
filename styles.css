@@ -2,3 +2,8 @@ h1{
     background-color: black;
     color: bisque;
 }
+li{
+    background-color: rgb(255, 92, 92);
+    color: rgb(0, 0, 215);
+    font-size: 26px;
+} 
